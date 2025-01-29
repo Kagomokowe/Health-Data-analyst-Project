@@ -1,4 +1,4 @@
-# Health-Data-analyst-Project
+# Dibetes Data-analyst-Project
 1.	Average Glucose Levels: Assess the average glucose levels among patients with and without diabetes.
 2.	BMI Distribution: Calculate the percentage of patients in different BMI categories (e.g., underweight, normal, overweight, obese).
 3.	Age Distribution by Outcome: Analyze how the diabetes outcome correlates with different age groups.
